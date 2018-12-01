@@ -1,0 +1,25 @@
+{
+  "name": "product-features",
+  "version": "1.0.0",
+  "description": "resolve the products features paradigm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aferlim/product-features.git"
+  },
+  "keywords": [
+    "product",
+    "features",
+    "filter"
+  ],
+  "author": "Andre Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aferlim/product-features/issues"
+  },
+  "homepage": "https://github.com/aferlim/product-features#readme"
+}

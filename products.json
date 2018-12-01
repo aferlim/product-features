@@ -1,0 +1,108 @@
+{
+    "product": {
+        "skus": [
+            {
+                "idSku": 1,
+                "Name": "Tennis Nike Air Red",
+                "price": 5000,
+                "features": [
+                    {
+                        "type": 1,
+                        "typeDescription": "color",
+                        "description": "Red"
+                    },
+                    {
+                        "type": 2,
+                        "typeDescription": "size",
+                        "description": "10"
+                    }
+                ]
+            },
+            {
+                "idSku": 3,
+                "Name": "Tennis Nike Air Red",
+                "price": 5000,
+                "features": [
+                    {
+                        "type": 1,
+                        "typeDescription": "color",
+                        "description": "Red"
+                    },
+                    {
+                        "type": 2,
+                        "typeDescription": "size",
+                        "description": "14"
+                    }
+                ]
+            },
+            {
+                "idSku": 4,
+                "Name": "Tennis Nike Air Red",
+                "price": 5000,
+                "features": [
+                    {
+                        "type": 1,
+                        "typeDescription": "color",
+                        "description": "Red"
+                    },
+                    {
+                        "type": 2,
+                        "typeDescription": "size",
+                        "description": "26"
+                    }
+                ]
+            },
+            {
+                "idSku": 5,
+                "Name": "Tennis Nike Air White",
+                "price": 5001,
+                "features": [
+                    {
+                        "type": 1,
+                        "typeDescription": "color",
+                        "description": "White"
+                    },
+                    {
+                        "type": 2,
+                        "typeDescription": "size",
+                        "description": "10"
+                    }
+                ]
+            },
+            {
+                "idSku": 6,
+                "Name": "Tennis Nike Air White",
+                "price": 5001,
+                "features": [
+                    {
+                        "type": 1,
+                        "typeDescription": "color",
+                        "description": "White"
+                    },
+                    {
+                        "type": 2,
+                        "typeDescription": "size",
+                        "description": "14"
+                    }
+                ]
+            },
+            {
+                "idSku": 7,
+                "Name": "Tennis Nike Air White",
+                "price": 5001,
+                "features": [
+                    {
+                        "type": 1,
+                        "typeDescription": "color",
+                        "description": "White"
+                    },
+                    {
+                        "type": 2,
+                        "typeDescription": "size",
+                        "description": "36"
+                    }
+                ]
+            }
+        ]
+    }
+}
