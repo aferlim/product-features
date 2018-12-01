@@ -18,11 +18,11 @@ var productsFilter = filterProducts([
     typeDescription: "color",
     description: "Red"
 },
-// {
-//     type: 2,
-//     typeDescription: "size",
-//     description: "10"
-// }
+{
+    type: 2,
+    typeDescription: "size",
+    description: "10"
+}
 ], product.product.skus)
 
 
